@@ -6,6 +6,7 @@ Este script de batch automatiza la creación de una estructura de carpetas para 
 
 - Solicita al usuario el nombre y apellido del cliente, así como el nombre del proyecto.
 - Genera un ID único para el cliente basado en sus iniciales y la fecha y hora actuales.
+- Crea una carpeta llamada "Clientes" si no existe.
 - Crea una carpeta para el cliente si no existe y agrega el cliente al registro.
 - Crea una estructura de carpetas específica para cada proyecto, incluyendo subcarpetas para diferentes tipos de archivos.
 
